@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "app-repostit-io-claude-connector-html-03f0333b",
+  "source": {
+    "issue": 3234,
+    "projectUrl": "https://app.repostit.io/claude-connector.html"
+  },
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude"
+  ]
+}
