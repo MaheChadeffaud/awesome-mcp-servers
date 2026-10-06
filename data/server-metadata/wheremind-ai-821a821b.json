@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "wheremind-ai-821a821b",
+  "source": {
+    "issue": 3237,
+    "projectUrl": "https://wheremind.ai"
+  },
+  "links": {
+    "endpoint": "https://wheremind.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT (developer mode)",
+    "Cursor",
+    "Claude Code"
+  ],
+  "license": "Proprietary (hosted service)"
+}
