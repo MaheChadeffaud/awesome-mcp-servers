@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-rossbuckley1990-hash-rightclick-76620dab",
+  "source": {
+    "issue": 3232,
+    "projectUrl": "https://github.com/rossbuckley1990-hash/rightclick"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Cursor",
+    "Claude Code",
+    "Codex",
+    "ChatGPT",
+    "generic MCP clients"
+  ],
+  "license": "Apache-2.0"
+}
